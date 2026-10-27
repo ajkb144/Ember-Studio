@@ -1,58 +1,59 @@
-# Somatic Video Analysis & Prosody Benchmarking (Block 0B)
+# Somatic Video Analysis & Visual Production Benchmarks (Block 0B)
 **Project:** Ember Somatic Studio (`ember-somatic-studio`)  
-**Benchmarked Creators:** 
-- Somatic Mechanics: *The Workout Witch*, *Sukie Baxter*, *Dr. Linnea Passaler*
-- Non-Dual & Contemplative Prosody: *Mooji*, *Rupert Spira*  
-**Audience Safety Target:** Neuroception of Safety & Downregulated Arousal
+**Governance:** DECISION GATE 0: LOCKED SPECIFICATIONS  
+**Founder & Creative Director:** Amanjot Kaur  
 
 ---
 
-## 1. Pacing & Cadence Standards (Locked Parameters)
-- **Target Delivery Speed:** **90–110 Words Per Minute (WPM)**  
-  *Rationale:* Typical conversational speech is 140–160 WPM. Reducing speed to 90–110 WPM forces the autonomic nervous system out of sympathetic urgency (fight-or-flight) and into the parasympathetic ventral vagal state.
-- **Somatic Pause Duration:** **2.5–4.0 Seconds**  
-  *Rationale:* Somatic cues require real-time latency for the viewer's motor cortex, cranial nerves, and diaphragm to respond (e.g., executing a physiological sigh, swallowing, or unclenching the jaw). Rushing through instructions induces performance anxiety.
+## 1. The 3-Stage Vocal Deceleration Curve (Locked Cadence)
+Standard short-form creators either speak at an anxious 150+ WPM throughout or use a mono-speed drone that loses viewers immediately. Ember implements an empirical **3-Stage Deceleration Curve** (48–65 words per 35–40s reel):
+
+```text
+[0–4s Hook: 115–120 WPM]  ──>  [4–26s Somatic Execution: 95–105 WPM]  ──>  [26–42s Non-Dual Bridge: 80–90 WPM]
+(Symptom match / alertness)         (Ventral vagal entrainment)                 (Descending pitch / Stillness)
+```
+
+1. **Stage 1: Opening Hook (0–4s) @ 115–120 WPM:**
+   - Matches the fast-scrolling viewer's autonomic alertness without startling them.
+   - Immediate physiological symptom validation (*"Notice if your shoulders are living up by your ears..."*).
+2. **Stage 2: Somatic Co-Regulation (4–26s) @ 95–105 WPM:**
+   - Drops cadence into parasympathetic social engagement band.
+   - Unhurried biomechanical instructions with clear consonant articulation.
+3. **Stage 3: Non-Dual Contemplative Bridge (26–42s) @ 80–90 WPM:**
+   - Deepest deceleration with downward musical pitch contours on final syllables.
+   - Gently opens the listener into the witness of the body (*Sakshi / Sehaj / Akal*).
 
 ---
 
-## 2. Creator Mechanics & Prosody Breakdown
-
-### A. The Workout Witch (Short-Form Somatic Retention Specialist)
-- **Platform:** Instagram Reels & TikTok
-- **Key Retention Driver:** Somatic Mirror Hook in 0–2.5 seconds naming an exact physical symptom (e.g., *"If your shoulders live up by your ears..."* or *"If you wake up clenching your teeth..."*).
-- **Visual Delivery:** Faceless or neck-down torso crop, steady camera, neutral ambient lighting. 
-- **Cadence & Pauses:** Short 4–6 word imperative cues followed by visual text overlays. Pauses around 2.0s.
-- **Ember Adaptation:** Adopt her symptom-mirror hook style, but lengthen pauses to 3.0s and layer our trilingual contemplative bridge instead of generic fitness/trauma claims.
-
-### B. Sukie Baxter (Polyvagal & Vagus Nerve Resets)
-- **Platform:** YouTube & Instagram
-- **Key Retention Driver:** Precise anatomical authority delivered in an unhurried, reassuring clinical tone.
-- **Visual Delivery:** Demonstration of ocular and cervical holds with direct gaze or profile demonstration.
-- **Cadence & Pauses:** 95–105 WPM. Deliberate, extended pauses (3.0–4.0s) when cueing the viewer to *"Wait for the sigh or swallow"*.
-- **Ember Adaptation:** Use her anatomical clarity for our ocular and cervical resets (Rosenberg Half-Salamander and Basic Exercise) with pure native script teleprompter delivery.
-
-### C. Dr. Linnea Passaler (Nervous System Regulation & Sensory Overload)
-- **Platform:** Instagram & Substack
-- **Key Retention Driver:** Gentle, non-pathologizing psychoeducation paired with immediate sensory micro-actions (sound, touch, orienting).
-- **Visual Delivery:** Aesthetic, biophilic, muted tones; text clearly formatted with generous negative space.
-- **Cadence & Pauses:** 90–100 WPM. Deep, soothing lower-register vocal tone.
-- **Ember Adaptation:** Integrate her grounding orienting mechanics into our 30–45s short-form formats.
-
-### D. Rupert Spira & Mooji (Non-Dual Contemplative Prosody Benchmarks)
-- **Tone & Vocal Architecture:**
-  - Rupert Spira: Crystal-clear, slow, melodic, highly articulate articulation with significant space between sentences. Voice sits in the lower chest register with zero vocal fry or performance inflection.
-  - Mooji: Warm, fatherly/motherly co-regulation tone. Uses repeated gentle questioning (*"Can you notice who is witnessing this?"*) with long lingering pauses.
-- **Cadence:** 80–95 WPM with 3.5–5.0s stillness intervals.
-- **Ember Adaptation:** Apply Rupert Spira’s precise clarity to our English channel (`@ember.stillness`) and Mooji's warm, comforting presence to our Hindi (*Sakshi/Shiva-Shakti*) and Punjabi (*Sehaj/Simran/Akal*) scripts.
+## 2. Somatic Pause Architecture & Room Tone Guardrail
+- **Inter-Phrase Pauses:** **2.5–4.0 seconds** (minimum two distinct vocal pauses per reel).
+- **Peak Exhalation / Release Window:** **4.0–5.0 seconds** during the physiological sigh, swallow, or "Voo" release.
+- **Strict Audio Guardrail:** **Never dead digital zero.** 
+  - Absolute digital silence sounds like an audio glitch, triggering startle reflexes and causing viewers to check their phones.
+  - All vocal pauses are filled with **-24 dBFS organic room tone / breath texture** layered with the swelling Solfeggio frequency stem.
 
 ---
 
-## 3. The 35-Second Cohesive Pacing Blueprint for Ember Scripts
+## 3. Locked Faceless Visual Production Grammar (`SKILL.md` Aesthetic Anchor)
+Every video is a unified multisensory nervous system intervention combining two organic visual layers:
 
-| Timeline | Audio / Vocal Action | Pause Length | Visual & Sensory State |
-| :--- | :--- | :--- | :--- |
-| **00:00 – 00:03** | **Somatic Mirror Hook** (e.g., *"Notice if your tongue is pressed to the roof of your mouth."*) | 0.8s micro-pause | Slow optic flow movement; high-contrast Stacked Captions; "Turn Sound On" indicator. |
-| **00:04 – 00:12** | **Physical Somatic Cue 1** (e.g., *"Drop your jaw... let your lips part slightly."*) | **3.0s Co-regulation Pause** | Visual movement slows; frequency stem swells +6dB during pause. |
-| **00:13 – 00:24** | **Physical Guided Action** (e.g., *"Take a gentle breath in... and let out an extended sigh."*) | **3.5s Physiological Pause** | Viewer exhales in real-time; Brown noise bed provides cocoon. |
-| **00:25 – 00:33** | **Spiritual Stillness Bridge** (*Sakshi* / *Sehaj* / Witnessing Presence) | **3.0s Stillness Window** | Camera tracks into serene nature loop; complete nervous system settle. |
-| **00:34 – 00:40** | **Anchor & Save Prompt** (e.g., *"Save this for tonight when your thoughts begin to race."*) | End | Subtle Ember logo fade; clean audio fade-out. |
+### Layer 1: Luminous Sacred Geometry Overlays
+- **Design:** Fine-line, minimalist sacred geometry vector animations (semi-transparent off-white/gold, 20–40% opacity).
+- **Synchronization:**
+  - *Breath Mandalas:* Concentric geometric rings or seed-of-life patterns that expand on inhalation and contract smoothly on exhalation.
+  - *Golden-Ratio Arcs & Alignment Guides:* Subtle curved vector guides illustrating ocular angles (30° lateral gaze for Rosenberg reset) or cervical tilts (Half-Salamander).
+
+### Layer 2: Founder's Original Painting & Art-Process B-Roll
+- **Aesthetic:** Bespoke, high-frame-rate (60fps) faceless footage of **Amanjot Kaur painting in the studio**:
+  - Macro shots of natural bristles sweeping dense mineral pigment across textured raw canvas.
+  - Ink and watercolor blooms diffusing organically through wet handmade paper.
+  - Tactile physical textures: mixing linseed oil, earth pigments, water droplets on palette.
+- **Mirror-Neuron Mechanism:** Watching a calm human hand make deliberate, physical, rhythmic brush movements stimulates viewer mirror-neuron systems, inducing immediate somatic co-regulation and eliminating AI slop.
+
+---
+
+## 4. Benchmark Creator Reference Ledger
+- **Sukie Baxter (`@SukieBaxter`):** Gold standard for anatomical clarity and unhurried cervical instruction.
+- **Irene Lyon (`@irenelyon`):** Gold standard for Somatic Experiencing titration and non-coercive orienting permission.
+- **The Workout Witch (`@theworkoutwitch`):** High-retention symptom-first opening hook architecture (stripped of all commercial hype/sales funnels).
+- **Contemplative Maestros (Rupert Spira, Judith Blackstone, Swami Tadatmananda):** Vocal timbre models for chest resonance, unhurried cadence, and non-dual spaciousness.
