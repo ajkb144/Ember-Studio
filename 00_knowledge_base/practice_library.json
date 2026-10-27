@@ -1,5 +1,153 @@
 {
   "version": "1.0.0",
-  "description": "Structured repository of verified somatic techniques, physiological mechanisms, contraindications, and spiritual bridge mappings.",
-  "techniques": []
+  "description": "Structured repository of verified somatic techniques, physiological mechanisms, contraindications, and spiritual bridge mappings for Ember Somatic Studio.",
+  "taxonomies": [
+    "Vagal Resets",
+    "Interoception & Containment",
+    "Sympathetic Discharge",
+    "Orienting & Grounding"
+  ],
+  "global_contraindications": [
+    "No breath retentions > 5 seconds",
+    "No hyperventilation or aggressive breathwork (Kapalabhati, Bhastrika, Wim Hof)",
+    "No deep trauma memory probing, regression, or emotional catharsis elicitation"
+  ],
+  "techniques": [
+    {
+      "id": "ESP-001",
+      "name": "The Basic Oculomotor Reset",
+      "category": "Vagal Resets",
+      "target_cranial_nerves": ["CN III", "CN IV", "CN VI", "CN X", "CN XI"],
+      "source": "Stanley Rosenberg (Accessing the Healing Power of the Vagus Nerve)",
+      "target_duration_sec": 45,
+      "recommended_frequency": "432Hz",
+      "physiological_mechanism": "Releases suboccipital hypertonicity, decompressing the jugular foramen to activate ventral vagal cardiac deceleration and pupillary softening.",
+      "biomechanical_cue": "Interlace fingers behind base of skull. Keep head facing forward. Shift eyes as far right as comfortable until an involuntary swallow, sigh, or yawn occurs (30-45s). Return to center, pause 3s, repeat left.",
+      "contraindications": ["Severe cervical stenosis", "Acute neck injury (perform with head flat on pillow instead)"],
+      "spiritual_bridges": {
+        "english": "As your gaze softens, release the urge to scan for threat. Rest as the stillness watching through the eyes.",
+        "hindi": "Netron ka tanaav chhutte hi, bahar dekhne wala 'Sakshi' bheetar ke shaant aakash mein thehar jaata hai.",
+        "punjabi": "Akhan da khichaav door hunda hai. Surti bahar di daud chhad ke 'Sehaj' vich tik jaandi hai."
+      }
+    },
+    {
+      "id": "ESP-002",
+      "name": "The Half-Salamander Lateral Release",
+      "category": "Vagal Resets",
+      "target_cranial_nerves": ["CN XI", "CN X"],
+      "source": "Stanley Rosenberg (Accessing the Healing Power of the Vagus Nerve)",
+      "target_duration_sec": 40,
+      "recommended_frequency": "528Hz",
+      "physiological_mechanism": "Mobilizes lateral cervical fascia, sternocleidomastoid, and carotid sinus to enhance Heart Rate Variability (HRV).",
+      "biomechanical_cue": "Tilt right ear gently toward right shoulder without rotating head. Shift gaze upward and to the left. Hold 25s until deep exhale or gulp occurs. Center head, pause 3s, repeat opposite side.",
+      "contraindications": ["Acute vestibular vertigo", "Cervical radiculopathy"],
+      "spiritual_bridges": {
+        "english": "Dropping the weight of the head surrenders control. You are held by gravity; presence requires no strain.",
+        "hindi": "Gardan ka thehraav sharir ko batata hai ki ladai khatam ho gayi hai. Yeh Shiva ka thehraav hai.",
+        "punjabi": "Modheya da bojh dharti nu saunp dyo. Karta bhav chhutda hai, ate Akal di hazoori naseeb hundi hai."
+      }
+    },
+    {
+      "id": "ESP-003",
+      "name": "Vagal Brake Respiration (The Extended Exhale)",
+      "category": "Vagal Resets",
+      "target_cranial_nerves": ["CN X"],
+      "source": "Deb Dana (The Polyvagal Theory in Therapy)",
+      "target_duration_sec": 35,
+      "recommended_frequency": "432Hz",
+      "physiological_mechanism": "Respiratory Sinus Arrhythmia (RSA): 1:2 inhale-to-exhale ratio stimulates vagal motor nucleus, engaging the parasympathetic brake on the sinoatrial node.",
+      "biomechanical_cue": "Unhinge the jaw slightly with lips softly parted. Inhale gently through nose for count of 3. Release slow, unforced exhalation through soft open lips for count of 6. No retention at bottom. Repeat 3 cycles.",
+      "contraindications": ["Do not hold breath at bottom", "Do not force or hyperventilate"],
+      "spiritual_bridges": {
+        "english": "Every long exhale is a surrender back to the unmoving ground of presence. Stop fueling defense.",
+        "hindi": "Har lamba saans ek samparpan hai. Jab sharir ladna chhodta hai, shanti khud ubhar aati hai.",
+        "punjabi": "Saans da bahar auna man nu thehraav dinda hai. Sehaj vich saans aave te jaave."
+      }
+    },
+    {
+      "id": "ESP-004",
+      "name": "Hand-on-Heart & Forehead Containment",
+      "category": "Interoception & Containment",
+      "target_cranial_nerves": ["Cutaneous C-tactile afferents", "CN X"],
+      "source": "Peter Levine (In an Unspoken Voice) & Bessel van der Kolk",
+      "target_duration_sec": 40,
+      "recommended_frequency": "528Hz",
+      "physiological_mechanism": "Tactile somatosensory C-tactile fiber stimulation induces oxytocinergic cascade, dampening amygdala arousal and establishing clear physical body borders.",
+      "biomechanical_cue": "Place right palm over the center of the chest and left palm softly across forehead. Apply 5-10% gentle inward pressure. Feel the physical warmth between palms and skin. Breathe naturally for 3 cycles.",
+      "contraindications": ["Do not probe emotional trauma or storytelling; maintain 100% focus on tactile physical sensations"],
+      "spiritual_bridges": {
+        "english": "Feel the boundary of your skin. Everything inside is held. You do not need to hold yourself together; presence is holding you.",
+        "hindi": "Apne haathon ki garmi ko seene par mehsus karein. Yeh sharir ek mandir hai. Is thehraav mein jaan lein ki aap surakshit hain.",
+        "punjabi": "Tan di seema nu mehsoos karo. 'Sehaj' da hath hamesha tuhade vall vadhiya hoya hai."
+      }
+    },
+    {
+      "id": "ESP-005",
+      "name": "Micro-Pendulation (Contraction to Ground)",
+      "category": "Interoception & Containment",
+      "target_cranial_nerves": ["Insular interoception"],
+      "source": "Peter Levine (Waking the Tiger)",
+      "target_duration_sec": 35,
+      "recommended_frequency": "396Hz",
+      "physiological_mechanism": "Autonomic elasticity exercise that prevents sympathetic lock-in by alternating attention between a tight focal zone and a broad neutral proprioceptive anchor.",
+      "biomechanical_cue": "Notice one tight area (jaw or chest). Now move attention to where your feet touch the floor or your hips press the chair. Feel that solid ground for 5 seconds. Swing attention back to the tightness for 3 seconds, noticing if it has softened. Rest on ground.",
+      "contraindications": ["Avoid fixating on intense pain or panic symptoms"],
+      "spiritual_bridges": {
+        "english": "Tension is just a temporary wave passing through the ocean of awareness. Rest as the ocean, not the wave.",
+        "hindi": "Tanaav ek chhoti si tarang hai. Aap us tarang ko dekhne wale 'Sakshi' hain jo hamesha shaant hai.",
+        "punjabi": "Dukh-sukh aunde-jande ne. Tusi oh sthir aatma ho jo har rang nu nirlep vekh rahi hai."
+      }
+    },
+    {
+      "id": "ESP-006",
+      "name": "Neuroceptive Orienting & Glimmer Anchor",
+      "category": "Orienting & Grounding",
+      "target_cranial_nerves": ["CN XI", "Optic flow circuits"],
+      "source": "Deb Dana (The Polyvagal Theory in Therapy)",
+      "target_duration_sec": 35,
+      "recommended_frequency": "396Hz",
+      "physiological_mechanism": "Breaks sympathetic tunnel vision by initiating horizontal scanning (cervical rotation) and locating an environmental cue of neutral safety ('glimmer').",
+      "biomechanical_cue": "Look up slowly from your screen. Let your head turn smoothly, scanning the physical space around you. Allow eyes to rest on one neutral detail (a leaf, light on the wall, wood texture) for 5 seconds. Notice the drop in your chest.",
+      "contraindications": ["Avoid rapid jerk-like head turning"],
+      "spiritual_bridges": {
+        "english": "The world outside is not an enemy to defend against. Notice the quiet beauty holding this exact moment.",
+        "hindi": "Apne aas-paas ke aakash ko dekhein. Yeh jagat dushmani mein nahi, ek gehre thehraav mein basa hai.",
+        "punjabi": "Aas-paas nazar ghuma ke vekho. Kudrat da thehraav har thaan maujood hai. Akal da thehraav sab sambhal reha hai."
+      }
+    },
+    {
+      "id": "ESP-007",
+      "name": "Subtle Core Vertical Inhabitation",
+      "category": "Interoception & Containment",
+      "target_cranial_nerves": ["Deep spinal proprioception"],
+      "source": "Judith Blackstone (The Realization Process)",
+      "target_duration_sec": 40,
+      "recommended_frequency": "528Hz",
+      "physiological_mechanism": "Inhabitation of the central vertical axis of the body shifts awareness from head-centered monitoring to whole-body interoceptive presence.",
+      "biomechanical_cue": "Sit with pelvis grounded. Feel the vertical center line running from your pelvic floor up through belly, heart, throat, and crown. Breathe gently down this axis. Inhabit the inner space of your torso for 3 silent breaths.",
+      "contraindications": ["Do not stiffen spine artificially; maintain effortless ease (Sehaj)"],
+      "spiritual_bridges": {
+        "english": "Inhabit the space inside your body. This space has never been damaged, never been anxious, and is always at rest.",
+        "hindi": "Apne sharir ke bheetari aakash mein thehar jayein. Yeh aakash shuddh chetna hai—har tanaav se mukt.",
+        "punjabi": "Apne tan de andar de vishraam nu mehsoos karo. Akal ate Simran di dhaar andar hi vagg rahi hai."
+      }
+    },
+    {
+      "id": "ESP-008",
+      "name": "Low-Arousal Tremor Discharge (Wrist & Shoulder Shake)",
+      "category": "Sympathetic Discharge",
+      "target_cranial_nerves": ["Somatic motor efferents"],
+      "source": "Peter Levine (Somatic Experiencing principles)",
+      "target_duration_sec": 30,
+      "recommended_frequency": "432Hz",
+      "physiological_mechanism": "Facilitates completion of trapped sympathetic fight-or-flight freeze responses through micro-vibrational motor shaking of distal extremities.",
+      "biomechanical_cue": "Drop arms by your sides. Gently shake your wrists and loose fingers for 10 seconds like flicking drops of water. Let shoulders gently bounce. Stop suddenly. Stand still and notice the tingling warmth in hands and chest.",
+      "contraindications": ["Do not perform vigorous or exhausting flailing; keep it loose, effortless, and low-arousal"],
+      "spiritual_bridges": {
+        "english": "Let the trapped adrenaline shake out of the hands. When the shaking stops, the unshakeable remains.",
+        "hindi": "Haathon se saara tanaav chhidak kar baha dein. Jab sharir rukta hai, tab shuddh thehraav ubhar aata hai.",
+        "punjabi": "Hatha nu halke halke hila ke sara tanaav kadd dyo. Jad hilna hatda hai, taan andar da sukoon dikhda hai."
+      }
+    }
+  ]
 }
