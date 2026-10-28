@@ -1,0 +1,24 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,44,&H00FFFFFF,&H000000FF,&H80000000,&H00000000,0,0,0,0,100,100,0,0,3,2.2,0,2,60,60,240,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:04.50,Default,,0,0,0,,If you touch the back of your neck right now...
+Dialogue: 0,0:00:05.20,0:00:10.00,Default,,0,0,0,,notice how tightly it's holding on.
+Dialogue: 0,0:00:10.80,0:00:14.80,Default,,0,0,0,,Interlace your fingers behind your head.
+Dialogue: 0,0:00:15.30,0:00:20.50,Default,,0,0,0,,Let your hands take the full weight of your skull.
+Dialogue: 0,0:00:21.00,0:00:24.20,Default,,0,0,0,,Keep your face looking forward.
+Dialogue: 0,0:00:24.60,0:00:27.20,Default,,0,0,0,,Now gently look to the right. Just your eyes.
+Dialogue: 0,0:00:27.50,0:00:30.00,Default,,0,0,0,,Keep your eyes there. Don't push.
+Dialogue: 0,0:00:30.40,0:00:32.50,Default,,0,0,0,,Just wait for your body to sigh, swallow, or soften.
+Dialogue: 0,0:00:32.50,0:00:36.00,Default,,0,0,0,,[ Exhale & Release ]
+Dialogue: 0,0:00:36.00,0:00:39.50,Default,,0,0,0,,Bring your eyes back to center.
+Dialogue: 0,0:00:40.00,0:00:42.50,Default,,0,0,0,,Feel that quiet drop.
+Dialogue: 0,0:00:43.00,0:00:47.50,Default,,0,0,0,,You are the stillness watching your body let go.

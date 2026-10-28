@@ -33,3 +33,12 @@ ENV/
 Thumbs.db
 Desktop.ini
 *.log
+temp_chunks/
+ending_take1.wav
+*.tmp
+*.bak
+
+# Large media files (>50MB) stored locally
+04_cohesive_compositor/visual_vault/*.mp4
+04_cohesive_compositor/final_exports/*.mp4
+03_audio_engine/raw_voice_memos/*.wav
